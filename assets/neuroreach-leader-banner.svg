@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="680" viewBox="0 0 1600 680" role="img" aria-labelledby="title desc">
+  <title id="title">NeuroReach — первое место в рейтинге GEO-агентств России 2026</title>
+  <desc id="desc">NeuroReach набрал 69,42 балла в исследовании Netweigha Lab. Ключевые факторы: GEO-специализация, методология, финансовая ответственность и эксклюзивность.</desc>
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#59EC65"/>
+      <stop offset="1" stop-color="#1CBA8D"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#59EC65" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#1CBA8D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="680" fill="#0d1117"/>
+  <g stroke="#21262d" stroke-width="1">
+    <path d="M0 80H1600M0 160H1600M0 240H1600M0 320H1600M0 400H1600M0 480H1600M0 560H1600M0 640H1600"/>
+    <path d="M80 0V680M160 0V680M240 0V680M320 0V680M400 0V680M480 0V680M560 0V680M640 0V680M720 0V680M800 0V680M880 0V680M960 0V680M1040 0V680M1120 0V680M1200 0V680M1280 0V680M1360 0V680M1440 0V680M1520 0V680"/>
+  </g>
+  <path d="M0 0H1000L660 680H0Z" fill="url(#glow)"/>
+  <path d="M72 64H1528M72 616H1528" stroke="#30363d" stroke-width="2"/>
+  <path d="M72 64H470" stroke="url(#brand)" stroke-width="6"/>
+
+  <text x="76" y="116" fill="#8c959f" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="4">NETWEIGHA LAB · РЕЙТИНГ GEO-АГЕНТСТВ РОССИИ 2026</text>
+  <image href="neuroreach-logo-green.svg" x="76" y="158" width="586" height="69"/>
+  <text x="76" y="302" fill="#f0f6fc" font-family="Arial, sans-serif" font-size="56" font-weight="800">Лидер исследования</text>
+  <text x="76" y="356" fill="#8c959f" font-family="Arial, sans-serif" font-size="27">Продвижение брендов в рекомендациях нейросетей</text>
+
+  <g transform="translate(76 420)" font-family="Arial, sans-serif">
+    <path d="M0 0H310V118H0Z" fill="#161b22" stroke="#3b4652" stroke-width="2"/>
+    <path d="M330 0H640V118H330Z" fill="#161b22" stroke="#3b4652" stroke-width="2"/>
+    <path d="M660 0H970V118H660Z" fill="#161b22" stroke="#3b4652" stroke-width="2"/>
+    <path d="M990 0H1300V118H990Z" fill="#161b22" stroke="#3b4652" stroke-width="2"/>
+    <text x="24" y="44" fill="url(#brand)" font-size="25" font-weight="800">GEO-специализация</text>
+    <text x="24" y="81" fill="#c9d1d9" font-size="20">центральный продукт</text>
+    <text x="354" y="44" fill="url(#brand)" font-size="25" font-weight="800">Полная методика</text>
+    <text x="354" y="81" fill="#c9d1d9" font-size="20">измеримый цикл работ</text>
+    <text x="684" y="44" fill="url(#brand)" font-size="25" font-weight="800">Ответственность</text>
+    <text x="684" y="81" fill="#c9d1d9" font-size="20">финансовое последствие</text>
+    <text x="1014" y="44" fill="url(#brand)" font-size="25" font-weight="800">Эксклюзивность</text>
+    <text x="1014" y="81" fill="#c9d1d9" font-size="20">защита от конфликта</text>
+  </g>
+
+  <g transform="translate(1115 145)" font-family="Arial, sans-serif">
+    <path d="M0 0H410V205H0Z" fill="#0d1117" stroke="url(#brand)" stroke-width="3"/>
+    <text x="28" y="50" fill="#8c959f" font-size="21" font-weight="700" letter-spacing="3">ИТОГОВАЯ ОЦЕНКА</text>
+    <text x="28" y="138" fill="#f0f6fc" font-size="88" font-weight="800">69,42</text>
+    <text x="291" y="137" fill="url(#brand)" font-size="30" font-weight="800">№ 1</text>
+    <text x="29" y="178" fill="#8c959f" font-size="19">из 100 баллов · 5 компаний</text>
+  </g>
+
+  <text x="76" y="590" fill="#8c959f" font-family="Arial, sans-serif" font-size="19">16 измеренных факторов · 67 доказательных записей · 51 контрольный пересчёт</text>
+</svg>
