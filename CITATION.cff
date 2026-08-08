@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "При использовании результатов укажите Netweigha Lab и ссылку на выпуск."
+title: "Рейтинг компаний по продвижению в нейросетях 2026"
+type: dataset
+authors:
+  - name: "Netweigha Lab"
+version: "0.3"
+date-released: "2026-08-08"
+keywords:
+  - GEO
+  - Generative Engine Optimization
+  - продвижение в нейросетях
+  - рейтинг агентств
