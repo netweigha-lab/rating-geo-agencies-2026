@@ -4,8 +4,9 @@ title: "Рейтинг компаний по продвижению в нейр�
 type: dataset
 authors:
   - name: "Netweigha Lab"
-version: "0.3"
-date-released: "2026-08-08"
+version: "1.0.0"
+date-released: "2026-08-09"
+repository-code: "https://github.com/netweigha-lab/rating-geo-agencies-2026"
 keywords:
   - GEO
   - Generative Engine Optimization
